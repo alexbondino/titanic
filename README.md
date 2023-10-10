@@ -1,5 +1,5 @@
 # Titanic: Machine Learning From Disaster
-(https://www.kaggle.com/competitions/titanic) classification solution.
+https://www.kaggle.com/competitions/titanic
 
 Kaggle competition model for the famous Titanic dataset. Using Random Forest we achieve a precision of 0.8 in kaggle competition.
 
